@@ -27,7 +27,6 @@ To enhance usability, the project includes a graphical user interface built with
 | Sky Blue | ![#8fc2f2](https://dummyimage.com/10/8fc2f2/white?text=+) #8fc2f2 |
 | Royal Blue | ![#739cfe](https://dummyimage.com/10/739cfe/white?text=+) #739cfe |
 
-#739cfe
 
 The colors were chosen to create a modern, cohesive interface, ensure good contrast and readability, and reflect the clarity and precision associated with mathematical problem-solving tools.
 
